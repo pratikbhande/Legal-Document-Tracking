@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+chromadb
+openai
+motor
+pymongo
+beautifulsoup4
+lxml
+playwright
+PyMuPDF
+aiohttp
+python-multipart
+python-dotenv
+tiktoken
+langchain-text-splitters
